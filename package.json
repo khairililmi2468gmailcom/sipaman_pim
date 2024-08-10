@@ -1,0 +1,41 @@
+{
+  "name": "sistem_permintaan_makanan",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.1.2",
+    "@heroicons/react": "^2.1.5",
+    "@material-tailwind/react": "^2.1.9",
+    "@react-spring/web": "^9.7.4",
+    "axios": "^1.7.3",
+    "bcrypt": "^5.1.1",
+    "chart.js": "^4.4.3",
+    "date-fns": "^3.6.0",
+    "drizzle-orm": "^0.32.1",
+    "framer-motion": "^11.3.21",
+    "isodate": "^0.1.4",
+    "jose": "^5.6.3",
+    "jsonwebtoken": "^9.0.2",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
+    "mysql2": "^3.11.0",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "react-spinners": "^0.14.1",
+    "react-spring": "^9.7.4",
+    "react-top-loading-bar": "^2.3.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
